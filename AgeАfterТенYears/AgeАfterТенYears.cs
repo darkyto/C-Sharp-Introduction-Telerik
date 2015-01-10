@@ -17,8 +17,8 @@ class AgeАfterТенYears
         int actualMonth = DateTime.Today.Month - birthYear.Month;
         int actualDay = DateTime.Today.Day - birthYear.Day;
         Console.WriteLine("You are " + actualYear + " years old");
-        Console.WriteLine("After 10 Years you will be {0} yeaers old ", actualYear + 10);
-        Console.WriteLine("and probaly will be younger that I am RIGHT NOW.. Hallelujah!");
+        Console.WriteLine("After 10 Years you will be {0} years old ", actualYear + 10);
+        Console.WriteLine("and probably will be younger that I am RIGHT NOW.. Hallelujah!");
 
         if (DateTime.Today.Month < birthYear.Month || DateTime.Today.Day < birthYear.Day)
         {
@@ -28,7 +28,7 @@ class AgeАfterТенYears
         }
         else
         {
-            Console.WriteLine("HEY HEY HEY ! Happy Birthday - We Dring Whiskey in a Jar!");
+            Console.WriteLine("HEY HEY HEY ! Happy Birthday - We Drink Whiskey in a Jar!");
         }
 
     }
