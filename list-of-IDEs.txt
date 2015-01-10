@@ -1,0 +1,5 @@
+Apart from Microsoft Visual Studio IDE versions we have mainly two other suitable C# IDEs :
+
+- MonoDevelop which is the only one from the three that also has versions for Mac and Linux. Its primary focus is development of projects that use Mono and .NET frameworks.
+
+- SharpDevelop which is a free and open source integrated development environment for the .NET Framework, Mono, Gtk#] and Glade# platforms. It supports development in C#,Visual Basic .NET, Boo, F#, IronPython and IronRuby programming languages.

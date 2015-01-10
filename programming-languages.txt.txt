@@ -1,0 +1,3 @@
+The most commonly used program languages now a days are Java, C , C++ , C# , PHP , Python , JavaScript , SQL.
+However every language from the shown above has its own specifics and its own advantages. For example PHP is prefered for web applications as it is easy implemented for dynamic websites and currently over 200 milions websites are using PHP. 
+SQL e is a special-purpose language for managing data in relational database management systems and JAVA is a standard for enterprise software, web-based content, games and mobile apps, as well as the Android operating system. Python is a high-level, server-side scripting language for websites and mobile apps

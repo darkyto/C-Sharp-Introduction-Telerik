@@ -1,0 +1,5 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintZeroOneNumbers\bin\Debug\PrintZeroOneNumbers.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintZeroOneNumbers\bin\Debug\PrintZeroOneNumbers.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintZeroOneNumbers\bin\Debug\PrintZeroOneNumbers.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintZeroOneNumbers\obj\Debug\PrintZeroOneNumbers.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintZeroOneNumbers\obj\Debug\PrintZeroOneNumbers.pdb

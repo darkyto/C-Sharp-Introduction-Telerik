@@ -1,0 +1,6 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\ReformatCode\bin\Debug\ReformatCode.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\ReformatCode\obj\Debug\ReformatCode.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SquareOfNumber_CSharp\bin\Debug\SquareOfNumber_CSharp.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SquareOfNumber_CSharp\obj\Debug\SquareOfNumber_CSharp.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SquareOfNumber_CSharp\obj\Debug\SquareOfNumber_CSharp.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SquareOfNumber_CSharp\bin\Debug\SquareOfNumber_CSharp.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SquareOfNumber_CSharp\bin\Debug\SquareOfNumber_CSharp.pdb

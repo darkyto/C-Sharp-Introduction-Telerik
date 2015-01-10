@@ -1,0 +1,6 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SequencePrintProgram\bin\Debug\SequencePrintProgram.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SequencePrintProgram\bin\Debug\SequencePrintProgram.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SequencePrintProgram\bin\Debug\SequencePrintProgram.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SequencePrintProgram\obj\Debug\SequencePrintProgram.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SequencePrintProgram\obj\Debug\SequencePrintProgram.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\SequencePrintProgram\obj\Debug\SequencePrintProgram.pdb

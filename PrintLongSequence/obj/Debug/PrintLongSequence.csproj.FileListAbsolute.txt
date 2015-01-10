@@ -1,0 +1,5 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintLongSequence\bin\Debug\PrintLongSequence.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\PrintLongSequence\obj\Debug\PrintLongSequence.pdb

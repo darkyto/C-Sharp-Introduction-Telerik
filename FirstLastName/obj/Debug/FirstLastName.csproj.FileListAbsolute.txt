@@ -1,0 +1,5 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\FirstLastName\bin\Debug\FirstLastName.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\FirstLastName\obj\Debug\FirstLastName.pdb
