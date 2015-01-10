@@ -1,0 +1,6 @@
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\AgeАfterТенYears\bin\Debug\AgeАfterТенYears.exe.config
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\AgeАfterТенYears\bin\Debug\AgeАfterТенYears.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\AgeАfterТенYears\bin\Debug\AgeАfterТенYears.pdb
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\AgeАfterТенYears\obj\Debug\AgeАfterТенYears.csprojResolveAssemblyReference.cache
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\AgeАfterТенYears\obj\Debug\AgeАfterТенYears.exe
+D:\TELERIK\C#\Homework_17012015\Intro-Programming-Homework\AgeАfterТенYears\obj\Debug\AgeАfterТенYears.pdb
